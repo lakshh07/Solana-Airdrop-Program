@@ -1,0 +1,16 @@
+{
+  "name": "create_an_airdrop_program",
+  "version": "0.1.0",
+  "author": "lakshay"
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.30.2"
+  }
+}
